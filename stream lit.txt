@@ -1,0 +1,1 @@
+streamlit run "c:\college projects\CYBER PORT SCANNER\port_scanner.py"
